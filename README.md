@@ -1,0 +1,2 @@
+# sls-docker
+serverless
